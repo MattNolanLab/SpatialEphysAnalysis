@@ -24,3 +24,15 @@ Please see more detailed documentation in the /documentation folder.
 
 ## How to contribute
 Please submit an issue to discuss.
+
+## Contributors
+
+[<img src="https://avatars.githubusercontent.com/u/16649631?v=4" width="100" height="100">](https://github.com/klaragerlei)
+[<img src="https://avatars.githubusercontent.com/u/6987144?v=4" width="100" height="100">](https://github.com/stennant)
+[<img src="https://avatars.githubusercontent.com/u/28258157?v=4" width="100" height="100">](https://github.com/HDClark94)
+[<img src="https://avatars.githubusercontent.com/u/3406709?v=4" width="100" height="100">](https://github.com/teristam)
+[<img src="https://avatars.githubusercontent.com/u/8053216?v=4" width="100" height="100">](https://github.com/4iar)
+[<img src="https://avatars.githubusercontent.com/u/46969515?v=4" width="100" height="100">](https://github.com/JesPass)
+[<img src="https://avatars.githubusercontent.com/u/20047754?v=4" width="100" height="100">](https://github.com/TizzyAnastasia)
+[<img src="https://avatars.githubusercontent.com/u/37214499?v=4" width="100" height="100">](https://github.com/BriVandrey)
+[<img src="https://avatars.githubusercontent.com/u/6878017?v=4" width="100" height="100">](https://github.com/vzickus)
