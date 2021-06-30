@@ -1,0 +1,12 @@
+pandas
+joblib 
+scipy 
+matplotlib 
+numba 
+xlrd 
+rpy2 
+cmocean 
+scikit-image 
+pytest
+elephant
+spikeinterface

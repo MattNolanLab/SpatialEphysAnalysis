@@ -1,0 +1,1 @@
+conda activate env && python3 -m pytest --junitxml=junit.xml tests/unit

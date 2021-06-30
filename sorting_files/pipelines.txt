@@ -1,0 +1,1 @@
+ms3 ms3.pipeline --detect_sign=1 --adjacency_radius=100 --whiten=true --detect_threshold=3
